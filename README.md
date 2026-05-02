@@ -6,4 +6,6 @@ Automate search of news and content on a topic and generate a brief based on the
 - Summary
 - Source URLs for attribution and dates of the content if from news sources
 
+This (slightly longer) implementation uses raw Python only and doesn't leverage any agent frameworks. 
+
 
